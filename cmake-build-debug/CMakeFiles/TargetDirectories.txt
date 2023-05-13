@@ -1,0 +1,3 @@
+/home/semih/Documents/termp4/cmake-build-debug/CMakeFiles/termp4.dir
+/home/semih/Documents/termp4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/semih/Documents/termp4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

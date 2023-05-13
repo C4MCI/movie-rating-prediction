@@ -1,0 +1,4 @@
+/home/semih/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/semih/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4167.35/bin/ninja/linux/ninja -G Ninja -S /home/semih/Documents/termp4 -B /home/semih/Documents/termp4/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/semih/Documents/termp4/cmake-build-debug
